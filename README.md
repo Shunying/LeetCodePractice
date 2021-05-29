@@ -4,34 +4,34 @@
 - 请根据下面的主要分区进入对应文件夹进行contribute，概念说明请使用Markdown文件，代码请放入src文件夹。
 
 ## 基础概念
-[x] 时间复杂度和空间复杂度
-[x] ToDo
+- [ ] 时间复杂度和空间复杂度
+- [ ] ToDo
 
 ## 数据结构整理
-[x] 列表
-[x] 链表
-[x] 堆栈
-[x] 队列
-[x] 哈希表
-[x] 树
+- [ ] 列表
+- [ ] 链表
+- [ ] 堆栈
+- [ ] 队列
+- [ ] 哈希表
+- [ ] 树
 
 ## 二叉树
-[x] 平衡二叉树
+- [ ] 平衡二叉树
 
 ## 递归
-[x] ToDo
+- [ ] ToDo
 
 ## 动态规划
-[x] ToDo
+- [ ] ToDo
 
 ## 面试真题
-[x] BAT
+- [ ] BAT
 
 ## C++基本概念
-[x] ToDo
+- [ ] ToDo
 
 ## Python基本概念
-[x] ToDo
+- [ ] ToDo
 
 ## 参考资料
 - 花花酱： https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q
